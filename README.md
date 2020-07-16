@@ -21,8 +21,7 @@ Administrator Panel: Slides inside a slideshow
 
 ### Demo
 
-Use the demo website at [http://digitaldisplay.herokuapp.com](http://digitaldisplay.herokuapp.com) (username: **demo**, password: **demo**)
-
+To create a demo user go to http://<your url>/api/v1/users/demo - it may be user instead of user**s**
 ### How to Run:
 
 1. Set up a MongoDB installation locally (or in the cloud) and create a `digitaldisplay` database
